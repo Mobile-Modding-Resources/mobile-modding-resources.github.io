@@ -1,1 +1,3 @@
 remote_theme: gustavoquinalha/jekyll-help-center-theme
+color_theme:  "#0081ff"
+color_text:  "#fff"
